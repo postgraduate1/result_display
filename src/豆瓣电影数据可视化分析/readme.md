@@ -5,10 +5,10 @@
     <table style="margin-left: auto; margin-right: auto; height: 100px;align:center" >
         <tr>
             <td>
-<img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/微信好友.jpg"/>
+<img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/微信好友.jpg" height=350/>
             </td>
             <td>
-<img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/QQ好友.jpg"/>
+<img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/QQ好友.jpg" height=350/>
             </td>
         </tr>
     </table>
