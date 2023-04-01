@@ -1,5 +1,4 @@
 # 豆瓣电影数据可视化分析
-<<<<<<< HEAD
 # 源码请添加微信或者 qq 联系获取
 
 <html>
@@ -15,10 +14,7 @@
     </table>
 </html>
 
-## Django+mysql+echart+spider
-=======
 ## Flask+mysql+echart+spider
->>>>>>> 629bcdc1b76a7111461acb8e1af0c44efcd033a4
 ***
 
 ## 主体
