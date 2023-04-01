@@ -1,5 +1,5 @@
 # 豆瓣电影数据可视化分析
-## Django+mysql+echart+spider
+## Flask+mysql+echart+spider
 ***
 
 ## 主体
