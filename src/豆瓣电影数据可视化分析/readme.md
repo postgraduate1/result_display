@@ -2,7 +2,7 @@
 # 源码请添加微信或者 qq 联系获取
 
 <html>
-    <table style="margin-left: auto; margin-right: auto; height: 200px;">
+    <table style="margin-left: auto; margin-right: auto; height: 100px;">
         <tr>
             <td>
 <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/微信好友.jpg"/>
