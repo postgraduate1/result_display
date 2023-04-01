@@ -1,22 +1,21 @@
-<div align="center">
 # 豆瓣电影数据可视化分析
-<div>
 
 # 源码请添加微信或者 qq 联系获取
 
+
 <html>
-<div align="center">
-    <table align="center" >
-        <tr>
-            <td>
-<img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/微信好友.jpg" height=350/>
-            </td>
-            <td>
-<img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/QQ好友.jpg" height=350/>
-            </td>
-        </tr>
-    </table>
-<div>
+    <div align="center">
+        <table align="center" >
+            <tr>
+                <td>
+    <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/微信好友.jpg" height=350/>
+                </td>
+                <td>
+    <img src="https://gitcode.net/k54kdk/result_display/-/raw/master/src/联系二维码/QQ好友.jpg" height=350/>
+                </td>
+            </tr>
+        </table>
+    <div>
 </html>
 
 ## Flask+mysql+echart+spider
