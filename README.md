@@ -4,10 +4,10 @@
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
-<img src="./src/联系二维码/微信好友.jpg"/>
+<img src="https://gitcode.net/k54kdk/result_display/src/联系二维码/微信好友.jpg"/>
             </td>
             <td>
-<img src="./src/联系二维码/QQ好友.jpg"/>
+<img src="https://gitcode.net/k54kdk/result_display/src/联系二维码/QQ好友.jpg"/>
             </td>
         </tr>
     </table>
@@ -15,4 +15,4 @@
 
 
 
-# [豆瓣电影数据可视化分析]()
+# [豆瓣电影数据可视化分析](https://gitcode.net/k54kdk/result_display/src/%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%86%E6%9E%90/readme.md)
