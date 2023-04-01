@@ -1,7 +1,11 @@
+<div align="center">
 # 豆瓣电影数据可视化分析
+<div>
+
 # 源码请添加微信或者 qq 联系获取
 
 <html>
+<div align="center">
     <table align="center" >
         <tr>
             <td>
@@ -12,6 +16,7 @@
             </td>
         </tr>
     </table>
+<div>
 </html>
 
 ## Flask+mysql+echart+spider
