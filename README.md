@@ -18,3 +18,5 @@
 # [租房数据可视化](https://gitcode.net/k54kdk/result_display/-/blob/master/src/租房数据可视化/readme.md)
 
 # [51job岗位信息可视化](https://gitcode.net/k54kdk/result_display/-/blob/master/src/51job岗位信息可视化/readme.md)
+
+# [音乐评论情感分析系统](https://gitcode.net/k54kdk/result_display/-/blob/master/src/音乐评论情感分析系统/readme.md)
